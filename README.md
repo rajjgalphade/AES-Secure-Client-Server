@@ -1,4 +1,4 @@
-# 🔐 AES Secure Client–Server Communication (Python)
+#  AES Secure Client–Server Communication (Python)
 
 A simple yet **industry-aligned cryptography + networking project** demonstrating **AES-128 (CBC mode)** encrypted communication between a Python client and server using TCP sockets.
 
@@ -10,7 +10,7 @@ This project is suitable for:
 
 ---
 
-## 📌 Features
+##  Features
 
 * AES-128 encryption (CBC mode)
 * Secure random IV generation
@@ -164,12 +164,6 @@ This project demonstrates:
 **Raj**
 Computer Science Engineering Student
 Cybersecurity & Networking Enthusiast
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to fork & improve it!
 
 ---
 
